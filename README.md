@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**essadike-elhafiane/essadike-elhafiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align = "center"> - 👋 Hi, I’m @essadike </h2>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+essadike/essadike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<p align = "center" > <img  src = "https://badge.mediaplus.ma/binary/eelhafia"/></p>
+
+<!---
+[![eelhafia's 42 stats](https://badge.mediaplus.ma/binary/eelhafia)](https://github.com/oakoudad/badge42)
+--->
+
+<hr/>
+<hr/>
+
+<img align="left"  src = "https://github-readme-stats.vercel.app/api?username=essadike-elhafiane&show_icons=true&theme=radical"/>
+
+<img  align="left"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=essadike-elhafiane&layout=compact"/>
