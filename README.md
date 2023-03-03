@@ -7,7 +7,7 @@
 essadike/essadike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align = "center" width = "1000" > <img width = "1000" src = "https://badge.mediaplus.ma/binary/eelhafia"/></p>
+<p align = "center" width = "800" > <img width = "1000" src = "https://badge.mediaplus.ma/binary/eelhafia"/></p>
 
 <h3 align="center">A passionate frontend developer from morocco</h3>
 
