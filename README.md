@@ -30,9 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=essadike-elhafiane&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=essadike-elhafiane&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=essadike-elhafiane&theme=aura_dark&utcOffset=8)
-<p><img align="center" width = "1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=essadike-elhafiane&show_icons=true&locale=en&layout=compact" alt="essadike-elhafiane" /></p>
 
-<p><img align="center" width = "1000" margin="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=essadike-elhafiane&" alt="essadike-elhafiane" /></p>
 
 
 
