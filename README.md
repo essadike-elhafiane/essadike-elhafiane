@@ -31,9 +31,10 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=essadike-elhafiane&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=essadike-elhafiane&theme=aura_dark&utcOffset=8)
 
-
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essadike-elhafiane&layout=compact)
-
+--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essadike-elhafiane&exclude_repo=coworkinn-deploy,portfolio-deploy,watch-ecommerce,photography-portfolio,web-projects&langs_count=18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
