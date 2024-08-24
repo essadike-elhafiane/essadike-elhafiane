@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align = "center" width = "700" > <img width = "800" src = "https://badge.mediaplus.ma/binary/eelhafia"/></p>
 
-<h3 align="center">A passionate frontend developer from morocco</h3>
+<h3 align="center">Full Stack Web Developer | Flutter Mobile Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essadike-elhafiane&label=Profile%20views&color=0e75b6&style=flat" alt="essadike-elhafiane" /> </p>
 
